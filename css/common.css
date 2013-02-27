@@ -52,3 +52,6 @@
         padding-top: 5px;
         padding-bottom: 5px;
       }
+      .navtext .active {
+        color: #000000;
+      }
