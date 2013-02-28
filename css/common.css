@@ -15,9 +15,9 @@
       }
       /* Main marketing message and sign up button*/
       .jumbotron {
-        margin-top: 10px;
+        margin-top: 18px;
         text-align: center;
-        padding-bottom: 10px;
+        padding-bottom: 15px;
         border-bottom: solid 1px #B0B0B0;
       }
       .jumbotron h1 {
@@ -44,7 +44,7 @@
         display: block; 
         margin-left: auto; 
         margin-right: auto;
-        padding-bottom: 20px;
+        padding-bottom: 15px;
       }
       .navtext {
         text-align: center;
@@ -58,10 +58,13 @@
         color: #000000;
       }
       .row-fluid {
-        padding-top: 10px;
+        padding-top: 0px;
       }
       .h2 {
         font-family: Helvetica;
         font-size: 14px;
+        text-align: center;
+      }
+      .span4 {
         text-align: center;
       }
