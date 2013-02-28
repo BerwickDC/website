@@ -642,7 +642,9 @@ h1 {
   font-size: 38.5px;
 }
 h2 {
-  font-size: 31.5px;
+  font-size: 16px;
+  text-align: center;
+  padding-bottom: -5px;
 }
 h3 {
   font-size: 24.5px;

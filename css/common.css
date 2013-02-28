@@ -60,3 +60,8 @@
       .row-fluid {
         padding-top: 10px;
       }
+      .h2 {
+        font-family: Helvetica;
+        font-size: 14px;
+        text-align: center;
+      }
